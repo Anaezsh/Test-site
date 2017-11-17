@@ -242,4 +242,9 @@ footer {
   .right {
     margin-top: 30px;
   }
+  #columnRight, #about_us {
+    margin: 0 10% 20px;
+    width: 80%;
+    float: none;
+  }
 }
